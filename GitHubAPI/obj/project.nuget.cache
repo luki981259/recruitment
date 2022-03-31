@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "YZPwxCOLcIwEuvpYaD9b1BjZCBypazjuoefm90YLcLRFR1fNChEdJIeiwFw1f8106vsaCNuOVS/OR0lMmOUQkw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Łukasz\\source\\repos\\GitHubAPI\\GitHubAPI\\GitHubAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Łukasz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\Łukasz\\.nuget\\packages\\octokit\\0.50.0\\octokit.0.50.0.nupkg.sha512"
+  ],
+  "logs": []
+}
